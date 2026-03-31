@@ -1,5 +1,4 @@
-Pedro Thiago Borges gomes - 2326187
-
+**NOTA:**
 // Estou fazendo o trabalho sozinho pois sempre tenho dificuldade em achar um grupo
 
 # Petbem: Sistema Multiplataforma de Gestão e Prontuário Animal
@@ -20,7 +19,7 @@ Muitos abrigos em Fortaleza enfrentam dificuldades na organização de prontuár
 ## 2. Prática Extensionista (Evidências)
 
 
-**Organização Selecionada:**Lar da tia Myrlla(@LARDATIAMYRLLA)**Contexto:** Realizamos o levantamento de dados através do perfil oficial da instituição, analisando a rotina de resgates, as principais patologias relatadas e as dinâmicas de adoção.
+**Organização Selecionada:** Lar da tia Myrlla(@LARDATIAMYRLLA)**Contexto:** Realizamos o levantamento de dados através do perfil oficial da instituição, analisando a rotina de resgates, as principais patologias relatadas e as dinâmicas de adoção.
 
 ### Evidências Coletadas
 > Abaixo, detalhamos o contato e a análise da demanda real da organização parceira.
