@@ -52,8 +52,8 @@ Planejamento para a implementação prática do sistema na próxima etapa do cur
 ---
 
 ## 5. Equipe e Papéis
-Lista de integrantes devidamente cadastrados no AVA(Nesse caso, eu)
+Lista de integrantes devidamente cadastrados no AVA (Nesse caso, eu)
 
-* **PEDRO THIAGO BORGES GOMES - 2326187:** Líder de Projeto e Desenvolvedor.
+* **PEDRO THIAGO BORGES GOMES - 2326187 (GRUPO 9):** Líder de Projeto e Desenvolvedor.
 
 * **Link do Repositório:** https://github.com/Pogramapedro/Trabalho-N705
